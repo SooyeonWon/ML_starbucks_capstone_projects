@@ -1,2 +1,4 @@
-# Machine_Learning_ND_Project_SooyeonWon
-Machine Learning Project Starbucks Capstone Challenge
+# Starbucks Capstone Challenge
+
+## Machine Learning Nanodegree Capstone Project
+#### Sooyeon Won
