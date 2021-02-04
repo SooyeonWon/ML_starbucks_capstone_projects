@@ -9,9 +9,9 @@
 &emsp;2. XG Boost vs. Light GBM vs. CatBoost <br>
 &emsp;3. Logistic Regression Model (Benchmark) <br>
 - Imbalanced Data  <br>
-&emsp; Synthetic Minority Oversampling Technique (SMOTE)
-- Evaluation Metrics 
-&emsp; Accuracy, Precison, Recall, F1-score
+&emsp; Synthetic Minority Oversampling Technique (SMOTE)<br>
+- Evaluation Metrics <br>
+&emsp; Accuracy, Precison, Recall, F1-score<br>
 - Data Visualisations
 
 ### Summary of Findings
